@@ -4,4 +4,4 @@ I am a university student who loves Software and Text. My name has four ‘o’.
 
 ソフトウェアと文字が好きな大学生。oは4つです。RustでCLIツールなどを開発しています。Vim派。ミーハー。
 
-[About me](https://about.uliboooo.dev/)
+mote info => [About me](https://about.uliboooo.dev/)
