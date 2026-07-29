@@ -1,7 +1,5 @@
-## I'm @Uliboooo -- Rust/nvim/Linux/
+## I'm Uliboooo
 
-I am a university student who loves Software and Text. My name has four ‘o’. I develop CLI tools mainly using Rust. I’m a Vimmer.
+Rust, CLI, Lib, FP, Linux, Nix, etc…
 
-ソフトウェアと文字が好きな大学生。oは4つです。RustでCLIツールなどを開発しています。Vim派。ミーハー。
-
-mote info => [About me](https://about.uliboooo.dev/)
+[More info(About me)](https://about.uliboooo.dev/)
