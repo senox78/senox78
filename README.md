@@ -2,4 +2,4 @@
 
 Rust, CLI, Lib, FP, Linux, Nix, etc…
 
-[More info(About me)](https://senox.cc/)
+[senox.cc/me](https://senox.cc/me)
