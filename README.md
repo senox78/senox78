@@ -1,5 +1,5 @@
-## I'm Uliboooo
+## せの(senox78)
 
 Rust, CLI, Lib, FP, Linux, Nix, etc…
 
-[More info(About me)](https://about.uliboooo.dev/)
+[More info(About me)](https://senox.cc/)
