@@ -1,4 +1,4 @@
-## せの(senox78)
+## Rei れい (senox78)
 
 Rust, CLI, Lib, FP, Linux, Nix, etc…
 
